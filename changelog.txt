@@ -1,6 +1,10 @@
 OPENSEADRAGON CHANGELOG
 =======================
 
+Our fork (for a faster release)
+* Fixed CORS bug in IE 10 (#967)
+* Fixed: console.debug caused exceptions on IE10 (#1129)
+
 2.2.1:
 
 * Fixed problems with zoom/pan constraints with certain extreme settings (#965)
